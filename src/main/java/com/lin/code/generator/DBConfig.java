@@ -1,4 +1,4 @@
-package com.yongche.code.generator;
+package com.lin.code.generator;
 
 /**
  * Created by wenxuelin on 2017/1/8.

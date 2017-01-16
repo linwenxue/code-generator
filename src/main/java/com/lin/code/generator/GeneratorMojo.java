@@ -1,4 +1,4 @@
-package com.yongche.code.generator;
+package com.lin.code.generator;
 
 import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.lang3.text.WordUtils;

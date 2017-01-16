@@ -1,4 +1,4 @@
-package com.yongche.code.generator;
+package com.lin.code.generator;
 
 import java.util.List;
 
